@@ -48,7 +48,7 @@ permalink: /
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
 
-＃サッカー　マンチェスターシティ
-＃＃選手名
-＊＊FW＊＊
+#サッカー　マンチェスターシティ
+##選手名
+**FW**
 ハーランド
